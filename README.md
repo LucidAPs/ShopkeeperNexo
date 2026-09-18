@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="branding/ShopkeeperNexo-resource-icon-master.png" alt="ShopkeeperNexo resource icon" width="144">
+
 # ShopkeeperNexo
 
 **Keep Nexo custom items in Shopkeepers trades up to date—automatically.**
