@@ -1,0 +1,22 @@
+name: ShopkeeperNexo
+version: '${project.version}'
+main: com.lucid.shopkeepernexo.ShopkeeperNexoPlugin
+description: Keeps Nexo custom items in Shopkeepers trades up to date.
+api-version: '26.2'
+author: Lucid
+depend:
+  - Nexo
+  - Shopkeepers
+
+commands:
+  shopkeepernexo:
+    description: Synchronizes and inspects Nexo items stored by Shopkeepers.
+    usage: /<command> <sync|status>
+    aliases:
+      - sknexo
+    permission: shopkeepernexo.admin
+
+permissions:
+  shopkeepernexo.admin:
+    description: Allows use of ShopkeeperNexo administration commands.
+    default: op
