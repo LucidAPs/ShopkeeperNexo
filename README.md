@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="branding/ShopkeeperNexo-resource-icon-master.png" alt="ShopkeeperNexo resource icon" width="144">
+<img src="branding/ShopkeeperNexo-resource-icon-v2-master.png" alt="ShopkeeperNexo resource icon" width="144">
 
 # ShopkeeperNexo
 
